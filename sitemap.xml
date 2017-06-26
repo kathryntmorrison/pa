@@ -3,72 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/portfolio/smoke/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/portfolio/ebola/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2015/10/02/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/portfolio/mortality/</loc>
-    <lastmod>2014-05-07T19:41:01+05:30</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2015/09/17/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/portfolio/malaria/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/2017/05/24/gganimate/</loc>
-    <lastmod>2017-05-24T13:04:40-04:00</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2015/06/24/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/2017/05/18/new-website-using-hugo-and-blogdown/</loc>
-    <lastmod>2017-05-18T16:01:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/consult/</loc>
-    <lastmod>2017-05-06T16:24:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/publications/</loc>
-    <lastmod>2017-05-06T16:09:47-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/2017/01/09/the-new-markdown-syntax-is-awesome/</loc>
-    <lastmod>2017-01-09T11:05:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/2017/01/07/tracking-my-spending-with-mint.com-and-r/</loc>
-    <lastmod>2017-01-07T11:05:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/2016/09/28/who-air-pollution-model/</loc>
-    <lastmod>2016-09-28T11:05:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/2016/05/05/metrics-for-assessing-forecast-accuracy/</loc>
-    <lastmod>2016-05-05T15:54:16-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/1/01/01/</loc>
+    <loc>https://kathryntmorrison.github.io/pa/blog/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -77,25 +39,94 @@
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/portfolio/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/post/</loc>
-    <lastmod>2017-05-24T13:04:40-04:00</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/ipsum/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/services/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/team/</loc>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/tags/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/team_ref/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
