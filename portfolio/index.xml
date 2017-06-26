@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/portfolio/</link>
+    <description>Recent content in Portfolios on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Air pollution from wildfire smoke</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/smoke/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/smoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of the 2015 West African Ebola outbreak</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/ebola/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/ebola/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The life expectancy gap in the United States</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/mortality/</link>
+      <pubDate>Wed, 07 May 2014 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor residual spraying for malaria in Uganda</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/malaria/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/malaria/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

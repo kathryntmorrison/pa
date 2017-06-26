@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/</link>
+    <description>Recent content on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Air pollution from wildfire smoke</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/smoke/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/smoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns of the 2015 West African Ebola outbreak</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/ebola/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/ebola/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The life expectancy gap in the United States</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/mortality/</link>
+      <pubDate>Wed, 07 May 2014 19:41:01 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor residual spraying for malaria in Uganda</title>
+      <link>https://kathryntmorrison.github.io/pa/portfolio/malaria/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/portfolio/malaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gganimate</title>
+      <link>https://kathryntmorrison.github.io/pa/2017/05/24/gganimate/</link>
+      <pubDate>Wed, 24 May 2017 13:04:40 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2017/05/24/gganimate/</guid>
+      <description>&lt;p&gt;Made my first &lt;a href=&#34;https://github.com/dgrtwo/gganimate&#34;&gt;gganimate&lt;/a&gt; figure! So useful for looking at your own data and would also be great for teaching.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New website using Hugo and Blogdown</title>
+      <link>https://kathryntmorrison.github.io/pa/2017/05/18/new-website-using-hugo-and-blogdown/</link>
+      <pubDate>Thu, 18 May 2017 16:01:52 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2017/05/18/new-website-using-hugo-and-blogdown/</guid>
+      <description>I recently remade my website with Hugo and Blogdown in R. I was inspired by Amber Thomas&amp;rsquo;s beautiful website, and she had written a blog post about the process of creating it. I relied heavily on her instructions and also on Jente Hidskes&amp;rsquo; instructions, which have been updated since Amber wrote her post. I changed things a bit and avoided using the nested git repos.
+Hugo has tons of information on hosting using github pages.</description>
+    </item>
+    
+    <item>
+      <title>Statistical and epidemiological consulting</title>
+      <link>https://kathryntmorrison.github.io/pa/consult/</link>
+      <pubDate>Sat, 06 May 2017 16:24:29 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/consult/</guid>
+      <description>I work as a freelance statistical consultant. I have worked with clients from private industrial firms, academics, professionals, and undergraduate and graduate students. I have performed data analysis on a contract basis; I have offered statistical advice and guidance to individuals working on theses, grants, and projects; and I have offered individulized statistical and programming assistance and tutoring.
+My specalizations are in spatial-temporal modelling, environmental statistics, predictive analytics including machine learning approaches, Bayesian inference and computation (MCMC, INLA) and data visulization including interactive app development.</description>
+    </item>
+    
+    <item>
+      <title>Recent publications</title>
+      <link>https://kathryntmorrison.github.io/pa/publications/</link>
+      <pubDate>Sat, 06 May 2017 16:09:47 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/publications/</guid>
+      <description>Zinszer K, Morrison K, Brownstein JS, Marinho F, Santos AF, Nsoesie EO. Reconstruction of zika virus introduction in Brazil. Emerging Infectious Diseases, 23(1):91, 2017.
+Zinszer K, Morrison K, Verma A, Brownstein JS.2017. Spatial determinants of Ebola virus disease risk for the West African epidemic. PLoS Currents, 9.
+Zinszer K, Morrison K, Anema A, Majumder MS, Brownstein JS. 2015. The velocity of ebola spread in parts of west africa. The Lancet Infectious Diseases.</description>
+    </item>
+    
+    <item>
+      <title>The new markdown syntax is awesome</title>
+      <link>https://kathryntmorrison.github.io/pa/2017/01/09/the-new-markdown-syntax-is-awesome/</link>
+      <pubDate>Mon, 09 Jan 2017 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2017/01/09/the-new-markdown-syntax-is-awesome/</guid>
+      <description>&lt;p&gt;I love how it automatically shows the compiled latex from math mode!  Makes it a lot easier to read and avoid mistakes that take a long time to debug. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tracking my spending with Mint.com and R</title>
+      <link>https://kathryntmorrison.github.io/pa/2017/01/07/tracking-my-spending-with-mint.com-and-r/</link>
+      <pubDate>Sat, 07 Jan 2017 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2017/01/07/tracking-my-spending-with-mint.com-and-r/</guid>
+      <description>&lt;p&gt;I was listening to &lt;a href=&#34;https://www.patreon.com/NSSDeviations&#34;&gt;Not So Standard Deviations&lt;/a&gt;
+yesterday, which combines my love of podcasts with my love of data science - highly recommend!. The hosts were talking about possibly doing their taxes and/or managing their finances in R. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WHO air pollution model</title>
+      <link>https://kathryntmorrison.github.io/pa/2016/09/28/who-air-pollution-model/</link>
+      <pubDate>Wed, 28 Sep 2016 11:05:43 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2016/09/28/who-air-pollution-model/</guid>
+      <description>One of my supervisors (Gavin Shaddick, University of Bath) has been working with his team and the WHO to estimate air pollution globally - the interactive data product went out yesterday and has been getting a lot of press!
+WHO Report
+Guardian article
+Science Daily article
+NPR
+NYTimes
+   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kathryntmorrison.github.io/pa/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/about/</guid>
+      <description>My training is in biostatistics, epidemiology, and geographic information science. I finished my PhD in February 2017. I currently split my time between three major roles: as a private statistical consultant, as a post-doctoral researcher at McGill University with Dr. Robert Platt, and as a research analyst at the University of Montreal with Dr. Kate Zinszer.
+Methodologically, I&amp;rsquo;m interested in Bayesian approaches to spatio-temporal methods, Bayesian computation, and modern approaches to data visualization.</description>
+    </item>
+    
+    <item>
+      <title>Metrics for assessing forecast accuracy</title>
+      <link>https://kathryntmorrison.github.io/pa/2016/05/05/metrics-for-assessing-forecast-accuracy/</link>
+      <pubDate>Thu, 05 May 2016 15:54:16 -0400</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/2016/05/05/metrics-for-assessing-forecast-accuracy/</guid>
+      <description>There are a number of ways to summarize forecast accuracy across a forecast horizon, but I’ve come to realize recently how unclear it is which measure to use in which situation - and how non-standardized it is.
+ Sometimes we have data with different units, sometimes we have data with the same units but hugely different scales, sometimes outliers, and so on. We often want a measure that isn’t hugely sensitive to outliers and is scale-independent (relative).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kathryntmorrison.github.io/pa/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/1/01/01/</guid>
+      <description>Animations Using the R Language     hljs.initHighlightingOnLoad();    ## Animations generated in R version 3.4.0 (2017-04-21) ## using the package animation library(gapminder) library(animation) library(gganimate) library(gridExtra) library(gpclib) library(RColorBrewer) library(shiny) library(rgeos) library(stringi) library(scales) library(plyr) library(rgdal) library(maptools) library(sp) library(ggplot2) library(reshape2) library(dplyr) expr ## R version 3.4.0 (2017-04-21) ## Platform: x86_64-apple-darwin15.6.0 (64-bit) ## Other packages: gapminder 0.2.0, animation 2.5, gganimate 0.1.0.9000, gridExtra 2.2.1, ## gpclib 1.5-5, RColorBrewer 1.</description>
+    </item>
+    
+  </channel>
+</rss>

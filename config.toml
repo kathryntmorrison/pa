@@ -1,0 +1,53 @@
+baseurl = "https://kathryntmorrison.github.io/pa"
+relativeurls = true
+languageCode = "en-us"
+title = "Precision Analytics"
+theme = "hugo-creative-portfolio-theme"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[params.navlinks]]
+  name = "Services"
+  url = ""
+
+[[params.navlinks]]
+  name = "About us"
+  url = "about/"
+
+[[params.navlinks]]
+  name = "Recent publications"
+  url = "publications/"
+
+[[params.navlinks]]
+  name = "Projects"
+  url = "consult/"
+
+
+[params]
+    description = "A website built through Hugo and blogdown."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
+ 
+  [params.social]
+  email         = "morrison.kathrynt@gmail.com"
+  twitter       = "https://twitter.com/kathryn_tm"
+  instagram     = "https://www.instagram.com/arf_hotel/"
+  github        = "https://github.com/kathryntmorrison"
