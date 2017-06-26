@@ -159,6 +159,7 @@ paginate = 10
     title = "Want more information?"
     subtitle = "See our blog below for summaries on our past and current projects and publications."
     link_url = "blog"
+    link_text = "Blog"
     
 
 [params.clients]
