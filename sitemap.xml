@@ -3,33 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2017/06/26/migrate-from-jekyll/</loc>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,32 +27,14 @@
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kathryntmorrison.github.io/pa/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,48 +48,18 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/team_ref/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
