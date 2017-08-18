@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/</link>
+    <description>Recent content on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
+    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The &#39;having an office&#39; effect on cafe expenses</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/08/17/office-coffee/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/08/17/office-coffee/</guid>
+      <description>Precision Analytics found a permament home in July 2017 at Nexus Coworking space. Before then, we were working out of our own homes or at various coffee shops around town.
+I track my personal spending, and I noticed a pretty strong &amp;lsquo;office effect&amp;rsquo; on having a permanent space to work - and make my own coffee!</description>
+    </item>
+    
+    <item>
+      <title>Our website is live!</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/06/26/migrate-from-jekyll/</link>
+      <pubDate>Mon, 26 Jun 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/06/26/migrate-from-jekyll/</guid>
+      <description>We built our website using Hugo and GitHub pages.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kathryntmorrison.github.io/pa/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/contact/</guid>
+      <description>We are here to help Please feel free to get in touch for more information.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://kathryntmorrison.github.io/pa/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/faq/</guid>
+      <description>1. Can you help me with my report, manuscript, or thesis? We offer guidance at every stage of empirical research, from protocol development, study design, analysis, and interpretation.
+2. Do you work only with Montreal-based companies or professionals? We have clients from across Canada, the US, and Europe.
+3. What are your rates? Our rates depend on the scope, timelines, and details of the work required. Please contact us for more information including a quote.</description>
+    </item>
+    
+    <item>
+      <title>Our Services</title>
+      <link>https://kathryntmorrison.github.io/pa/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/services/</guid>
+      <description>We offer a range of services from analytics to research support. We’ve worked with clients from the private and public sector, including academics, professionals, graduate students, corporations and start-ups. 
+Statistical consulting We can help maximize the quality and amount of information you get from your data. Whether you use SAS, R, SPSS, Stata, SQL, our team has the technical know-how to assist in all stages of your project. If you don&amp;rsquo;t know these tools, we can perform analyses for you (see Data Analysis) or help you improve your proficiency (see tutoring).</description>
+    </item>
+    
+    <item>
+      <title>Our Team</title>
+      <link>https://kathryntmorrison.github.io/pa/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/team/</guid>
+      <description>Erika Braithwaite, PhD | Co-Founder I obtained my bachelors and master’s in psychology and then completed a PhD in Epidemiology at McGill University. My journey from the social sciences to the biomedical field has helped me gain a host of expertise related to study design, such as clinical trials, statistical modeling techniques drawn from causal inference and econometrics. The common thread to all the fun things I get to do in my everyday?</description>
+    </item>
+    
+  </channel>
+</rss>
