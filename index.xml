@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kathryntmorrison.github.io/pa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The &#39;having an office&#39; effect on cafe expenses</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/08/21/3rescuetime/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/08/21/3rescuetime/</guid>
+      <description>Test </description>
+    </item>
     
     <item>
       <title>The &#39;having an office&#39; effect on cafe expenses</title>
