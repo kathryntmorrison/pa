@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2017/08/30/3rescue-time/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kathryntmorrison.github.io/pa/blog/2017/08/17/2office-coffee/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/blog/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,6 +30,12 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/data/</loc>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -47,13 +58,13 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/tags/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

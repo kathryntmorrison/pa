@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/tags/data/</link>
+    <description>Recent content in Data on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
+    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The most helpful (and shaming) productivity tool ever</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/08/30/3rescue-time/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/08/30/3rescue-time/</guid>
+      <description>During my studies, I struggled to evaluate my productivity. The research years of my PhD were long and lacked structure. It felt as though I spent every day sitting in front of my computer slowly chipping away at the amorphous blob that was my thesis. I discovered Rescue Time and it totally changed my life! It&amp;rsquo;s an app that you can run on your desktop that tracks which ever active window your working on.</description>
+    </item>
+    
+  </channel>
+</rss>
