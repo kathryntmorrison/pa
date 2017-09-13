@@ -99,7 +99,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "kathryn@precision-analytics.ca"
 
     
     copyright = "Copyright (c) 2017 Precision Analytics."
