@@ -1,0 +1,144 @@
+---
+title: "Take your dog to blog day"
+author: "Presicion Analytics"
+date: '2017-10-05'
+output: html_document
+---
+
+<i> Post written by Kathryn </i> 
+<hr>
+
+```{r first, echo = FALSE}
+
+gg_ktm = function(g) { 
+  g$labels$y = paste0('\n', g$labels$y, '\n') 
+  g$labels$x = paste0('\n', g$labels$x, '\n')  
+  
+  g1 = g + theme(plot.background = element_rect(fill = "#ECF0F3"), 
+                 legend.background = element_rect(fill="#ECF0F3", size=1, linetype="solid"),
+                 legend.text = element_text(size=15), 
+                 panel.background = element_rect(fill = '#ECF0F3', colour = 'white'), 
+                 legend.key=element_blank()) + #text=element_text(family="MS PGothic"), 
+    theme(strip.background = element_rect(fill="#A5A8AA"), 
+          strip.text.x = element_text(colour = 'white', size = 15),
+          strip.text.y = element_text(colour = 'white', size = 15), 
+          plot.title = element_text(size = 25, face = "bold", hjust=0.5) )
+  
+  return(g1)
+}
+
+
+pacman::p_load(dplyr, reshape2, ggplot2)
+ds = readLines('/Users/kathrynmorrison/Desktop/rover-data-raw.txt')
+prices = grep(x = ds, pattern = '^[$][0-9][0-9]', value = TRUE)
+prices = gsub(' ', '', prices)
+prices = as.numeric(gsub('[$]', '', prices))
+
+N = length(prices)
+
+reviews = grep(x = ds, pattern = 'REVIEW', value = TRUE) 
+reviews = gsub(' ', '', reviews)
+reviews = gsub('[0-9][0-9]REPEATCLIENTS', '', reviews)
+reviews = gsub('[0-9]REPEATCLIENTS', '', reviews)
+reviews = gsub('[0-9]REPEATCLIENT', '', reviews)
+reviews = gsub('REVIEWS', '', reviews) 
+reviews = gsub('REVIEW', '', reviews) 
+reviews = as.numeric(gsub('NOYET', '0', reviews))  
+
+
+repeats = grep(x = ds, pattern = 'REVIEW', value = TRUE) 
+repeats = substr(repeats, 1, 5)
+repeats = gsub(' ', '', repeats)
+repeats = gsub('NORE', '0', repeats)
+repeats = gsub('REP', '', repeats)
+repeats = gsub('[0-9]REV', '0', repeats)
+repeats = gsub('RE', '', repeats)
+repeats = as.numeric(repeats)
+
+d = data.frame(id = 1:N, price = prices, reviews, repeats) 
+
+ds = d %>% subset(reviews > 0 | repeats >0) 
+ds$me = ifelse(ds$id == 16, 'me', 'everyone else')
+
+```
+
+
+If you know me, you know that I really, really like dogs. To fulfill the dog-shaped hole currently in my heart, I’ve been dog-sitting on Rover for the last year<sup>1</sup>. I get paid to hang out with dogs! Before you quit your job, I get $28/day, and about half that on treats and toys. But, I absolutely love it. If you don’t mind planning your day around your visitor, I couldn’t recommend it more. <br>
+<br>
+
+I’ve sat for a total of 16 different dogs, and many have become regular ‘clients.’ I haven’t had a bad experience yet. My partner Matt was initially hesitant about a parade of random dogs through our apartment, but they've grown on him. <br>
+<br>
+
+It’s given us a real appreciation for the quirks of each breed - our regular clients include a 5 lb yorkie as well as a 100 lb Great Dane. They are both incredibly gentle and sweet. Collies learn new tricks at lightening speed, poodles and doodles are sweet and goofy, the French mastiff is a gentle giant, huskies speak a special language, and mixes are full of surprises. <br> 
+<br>
+
+I scraped data from the Rover website for the island of Montreal, to scope out my competition. There are 112 other dog sitters with ads who will host a pup in their home (like me). <br>
+<br>
+
+Of these, 96 have at least one review or at least one repeat client. I excluded the 17 with zero of both. Repeats and reviews (assuming they are positive) both increase your desirability as a host. I take dogs of all sizes and ages, which also helps. There are two clear outliers. With seven repeat visits, I'm in the top 10%, and similar for reviews. <br>
+
+
+```{r rover-fig1, echo = FALSE, fig.height=5, fig.width=6, dpi=500}
+g1 = ggplot(data = ds) + geom_jitter(aes(x = reviews, y = repeats, colour = me, size = me), alpha = 0.7) +
+  theme(legend.position = 'top') + 
+  scale_colour_manual(values = c('#50908C', '#AB589D'), name = '', labels = c('Everyone else    ', 'Me')) +
+  scale_size_manual(values = c(2,4), name = '', labels = c('Everyone else    ', 'Me')) + 
+  ggtitle('\nReviews and repeats\n') + 
+  xlab('\n\nnumber of reviews') + ylab('number of repeat stays\n\n')
+print(gg_ktm(g1))
+```
+
+
+My hypothesis is that price does not necessarily motivate the customers. The range is pretty small, so while dog-sitting is expensive for the customer, the potential savings for a 'budget' dog sitter aren't enormous. Of these 96 sitters, 72 charged \$20-\$30 a day. <br>
+
+
+```{r rover-fig2, echo = FALSE, fig.height=5, fig.width=6, dpi=500}
+g2 = ggplot(data = ds) + geom_histogram(aes(x=price), binwidth=5, fill = '#AB589D', colour = 'white') +
+  ggtitle('\nDistribution of daily prices\n') + 
+  xlab('\n\nprice') + ylab('count\n\n')
+print(gg_ktm(g2))
+```
+
+
+My theory is that dog people are primarily concerned with someone who will love their pet and keep them safe, fed, and well snuggled. Given this, I guessed that good sitters could increase their rates to the high end as soon as they head a steady client base. <br>
+<br>
+
+When I signed up, the website recommended $25/day to start, so I started with \$20/day. I increased my rates when I realized how much the website keeps, and I thought under pricing myself might make me look undesirable - after all, I’m offering a premium care package, with frequent walks, very little alone time, and full couch/bed privileges. <br>
+<br>
+
+Turns out, at $35/day (20% which the website keeps), I am on the high end of that common rate! Only 21 of the 96 charged \$35/day or more.And no matter how I slice this data, I cannot find an association between reviews/repeats and price. <br>
+
+
+```{r rover-fig3, echo = FALSE, fig.height=5, fig.width=6, dpi=500}
+g3 = ggplot(data = ds) + geom_jitter(aes(x = reviews, y = price, colour = me, size = me), alpha = 0.7) + 
+  theme(legend.position = 'top') + 
+  scale_colour_manual(values = c('#50908C', '#AB589D'), name = '', labels = c('Everyone else    ', 'Me')) +
+  scale_size_manual(values = c(2,4), name = '', labels = c('Everyone else    ', 'Me')) + 
+  ggtitle('\nReviews and price \n') + 
+  xlab('\n\nnumber of reviews') + ylab('dollars\n\n')
+print(gg_ktm(g3))
+```
+
+
+```{r rover-fig4, echo = FALSE, fig.height=5, fig.width=6, dpi=500}
+
+g4 = ggplot(data = ds) + geom_jitter(aes(x = repeats, y = price, colour = me, size = me), alpha = 0.7) + 
+  theme(legend.position = 'top') + 
+  scale_colour_manual(values = c('#50908C', '#AB589D'), name = '', labels = c('Everyone else    ', 'Me')) +
+  scale_size_manual(values = c(2,4), name = '', labels = c('Everyone else    ', 'Me')) + 
+  ggtitle('\nRepeat visits and price \n') + 
+  xlab('\n\nnumber of repeat visits') + ylab('dollars\n\n')
+
+print(gg_ktm(g4))
+```
+
+Note that I jittered these two figures so you can more clearly see the distribution. I’m interpreting this to mean that many of my competition are not so much competing for the money of the dogs owners, as much as the hearts of the dogs. It’s a labour of love for them as well, and therefore competition is fierce! 
+
+
+<hr>
+
+<sup>1</sup> I began on DogVacay.com, which was bought out by Rover. 
+
+
+
+

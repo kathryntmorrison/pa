@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dogs on Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/tags/dogs/</link>
+    <description>Recent content in Dogs on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
+    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/tags/dogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bring your dog to blog day</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</guid>
+      <description>Post written by Kathryn   If you know me, you know that I really, really like dogs. To fulfill the dog-shaped hole currently in my heart, I’ve been dog-sitting on Rover for the last year1. I get paid to hang out with dogs! Before you quit your job, I get $28/day and spend half on treats and toys. But, I absolutely love it. If you don’t mind planning your day around a dog, I couldn’t recommend it more.</description>
+    </item>
+    
+  </channel>
+</rss>

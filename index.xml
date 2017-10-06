@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kathryntmorrison.github.io/pa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bring your dog to blog day</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</guid>
+      <description>Post written by Kathryn   If you know me, you know that I really, really like dogs. To fulfill the dog-shaped hole currently in my heart, I’ve been dog-sitting on Rover for the last year1. I get paid to hang out with dogs! Before you quit your job, I get $28/day and spend half on treats and toys. But, I absolutely love it. If you don’t mind planning your day around a dog, I couldn’t recommend it more.</description>
+    </item>
     
     <item>
       <title>The most helpful (and shaming) productivity tool ever</title>
@@ -35,10 +44,10 @@ I track my personal spending, and I noticed a pretty strong &amp;lsquo;office ef
     
     <item>
       <title>Our website is live!</title>
-      <link>https://kathryntmorrison.github.io/pa/blog/2017/06/26/1migrate-from-jekyll/</link>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/06/26/1website-live/</link>
       <pubDate>Mon, 26 Jun 2017 13:07:31 +0200</pubDate>
       
-      <guid>https://kathryntmorrison.github.io/pa/blog/2017/06/26/1migrate-from-jekyll/</guid>
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/06/26/1website-live/</guid>
       <description>We built our website using Hugo and GitHub pages.</description>
     </item>
     
