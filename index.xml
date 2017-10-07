@@ -80,7 +80,7 @@ Can you help me with my scientific report, manuscript, or thesis? Absolutely, we
       
       <guid>https://kathryntmorrison.github.io/pa/services/</guid>
       <description>We offer a range of services from analytics to research support. We’ve worked with clients from the private and public sector, including academics, professionals, graduate students, corporations and start-ups. 
-Statistical consulting We can help maximize the quality and amount of information you get from your data. Whether you use SAS, R, SPSS, Stata, SQL, our team has the technical know-how to assist in all stages of your project. If you don&amp;rsquo;t know these tools, we can perform analyses for you (see Data Analysis) or help you improve your proficiency (see tutoring).</description>
+Statistical consulting Maximize the quality and amount of information you get from your data. Whether you use SAS, R, SPSS, Stata, SQL, our team has the technical know-how to assist in all stages of your project. If you don&amp;rsquo;t know these tools, we can perform analyses for you (see data analysis) or help you improve your proficiency (see tutoring).</description>
     </item>
     
     <item>
@@ -90,6 +90,15 @@ Statistical consulting We can help maximize the quality and amount of informatio
       
       <guid>https://kathryntmorrison.github.io/pa/team/</guid>
       <description>Erika Braithwaite, PhD | Co-Founder I obtained my bachelors and master’s in psychology and then completed a PhD in Epidemiology at McGill University. My journey from the social sciences to the biomedical field has helped me gain a host of expertise related to study design, such as clinical trials, statistical modeling techniques drawn from causal inference and econometrics. The common thread to all the fun things I get to do in my everyday?</description>
+    </item>
+    
+    <item>
+      <title>Terams of service</title>
+      <link>https://kathryntmorrison.github.io/pa/legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/legal/</guid>
+      <description>Precision Analytics Terms of Service  Terms By accessing the website at http://www.precision-analytics.ca, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</description>
     </item>
     
   </channel>
