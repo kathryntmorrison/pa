@@ -109,7 +109,7 @@ paginate = 10
 
     logo = "img/logo.png"
     address = """<p><strong>Precision Analytics</strong> <br>
-    300A-4529 Clark street <br> 
+    203D-4529 Clark street <br> 
     Montreal, QC H2T 2T3 <br> 
       </p>
       """
