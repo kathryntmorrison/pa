@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kathryntmorrison.github.io/pa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accreditation of Statisticians</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/11/13/5ssc/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/11/13/5ssc/</guid>
+      <description>Post written by Kathryn   Last month I received my accreditation as an associate statistician from the Statistical Society of Canada (SSC).  The SSC  is a professional organization that seeks to promote the use and development of statistics and probability1. They have many educational and training objectives, hold annual meetings including workshops (which I have attended in the past), sponsor local chapters and sections on application areas like biostatistics and actuarial science, and a lot more.</description>
+    </item>
     
     <item>
       <title>Bring your dog to blog day</title>
@@ -19,20 +28,6 @@
       
       <guid>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</guid>
       <description>Post written by Kathryn   If you know me, you know that I really, really like dogs. To fulfill the dog-shaped hole currently in my heart, I’ve been dog-sitting on Rover for the last year1. I get paid to hang out with dogs! Before you quit your job, I get $28/day and spend half on treats and toys. But, I absolutely love it. If you don’t mind planning your day around a dog, I couldn’t recommend it more.</description>
-    </item>
-    
-    <item>
-      <title>Bring your dog to blog day</title>
-      <link>https://kathryntmorrison.github.io/pa/blog/2017/10/06/5ssc/</link>
-      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://kathryntmorrison.github.io/pa/blog/2017/10/06/5ssc/</guid>
-      <description>Post written by Kathryn   Last month I received my accreditation an associate statistician from the Statistical Society of Canada (SSC).
-
-
-
-
- 1</description>
     </item>
     
     <item>

@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2017/11/13/5ssc/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/blog/2017/10/06/5ssc/</loc>
+    <loc>https://kathryntmorrison.github.io/pa/blog/2017/10/06/4rover/</loc>
     <lastmod>2017-10-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/blog/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +74,13 @@
   
   <url>
     <loc>https://kathryntmorrison.github.io/pa/</loc>
-    <lastmod>2017-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kathryntmorrison.github.io/pa/tags/statistical-accreditation-ssc/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,13 +95,13 @@
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/tags/website/</loc>
+    <loc>https://kathryntmorrison.github.io/pa/categories/website/</loc>
     <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kathryntmorrison.github.io/pa/categories/website/</loc>
+    <loc>https://kathryntmorrison.github.io/pa/tags/website/</loc>
     <lastmod>2017-06-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
