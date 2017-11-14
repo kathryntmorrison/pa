@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Data Epidemiology on Precision Analytics</title>
+    <link>https://kathryntmorrison.github.io/pa/tags/open-source-data-epidemiology/</link>
+    <description>Recent content in Open Source Data Epidemiology on Precision Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Precision Analytics.</copyright>
+    <lastBuildDate>Tue, 14 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kathryntmorrison.github.io/pa/tags/open-source-data-epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social epidemiology and open source data</title>
+      <link>https://kathryntmorrison.github.io/pa/blog/2017/11/14/6epidata-opensource/</link>
+      <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kathryntmorrison.github.io/pa/blog/2017/11/14/6epidata-opensource/</guid>
+      <description>Post written by Erika   My work has always spanned several disciplines, but at its core, I spent a lot of time thinking about social issues surrounding health. I was astonished about how many rich sources data were available and (completely free!) from the U.S. Here are some of my favorites.
+ The National Center for Health Statistics via CDC wonder has a wealth of U.S. vital statistics. The CDC Wonder system provides an easy-to-use graphical interface to specify the data you&amp;rsquo;re interested in.</description>
+    </item>
+    
+  </channel>
+</rss>
